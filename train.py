@@ -17,7 +17,7 @@ BATCH_SIZE = 1
 MOMENTUM = 0.95
 DECAY = 5e-4
 START_EPOCH = 0
-EPOCHS = 400
+EPOCHS = 100
 PRINT_FREQ = 100
 
 # Create directory to save models
